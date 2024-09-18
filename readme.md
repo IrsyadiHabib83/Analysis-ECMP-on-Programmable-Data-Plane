@@ -15,12 +15,3 @@ P4 Language: Utilized for programming packet-forwarding decisions in data plane 
 Contributions
 Contributions are welcome! Whether it's adding new features, improving existing ones, or reporting bugs, feel free to fork this repository and submit your pull requests. We are particularly interested in extending the capability of ECMP strategies and integrating with different network telemetry tools.
 
-Machine files can be access on this link
-https://telkomuniversityofficial-my.sharepoint.com/:u:/g/personal/irsyadihabib_student_telkomuniversity_ac_id/EVjRorli2PRMq8-deEtEOVIBaatvns2je5DbXvHX7Fk9Dw?e=gZq0Gu
-
-How to run it
-1. Open VMware
-2. Select Open a virtual machine
-3. Select file .vdi in mesin folder
-4. After machine have been add on VMware, open it
-5. go to folder ECMP in Document and run with p4run
