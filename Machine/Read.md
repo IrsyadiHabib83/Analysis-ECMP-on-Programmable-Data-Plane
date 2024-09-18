@@ -2,8 +2,8 @@ Machine files can be access on this link https://telkomuniversityofficial-my.sha
 
 How to run it
 
-Open VMware
-Select Open a virtual machine
-Select file .vdi in mesin folder
-After machine have been add on VMware, open it
-go to folder ECMP in Document and run with p4run
+1. Open VMware 
+2. Select Open a virtual machine
+3. Select file .vdi in mesin folder
+4. After machine have been add on VMware, open it
+5. go to folder ECMP in Document and run with p4run
